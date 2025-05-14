@@ -1,0 +1,59 @@
+.plan-box {
+    display: grid;
+    grid-template-rows: 1fr 1fr 2fr 1fr;
+    grid-area: 1rem;
+    border-radius: 20px;
+    padding: 1.5rem;
+    height: 60vh;
+    width: 40vh;
+    text-align: center;
+    box-shadow: 10px 5px 5px 5px rgba(0,0,0,0.7);
+    background-color: #153042;
+    opacity: .95;
+    transition: .2s;
+}
+
+.plan-box:hover {
+    opacity: 1;
+}
+
+#plan-name,
+button {
+    font-weight: bold;
+}
+
+#plan-name {
+    color: #ef8517;
+    font-size: 2.2rem;
+}
+
+#plan-price,
+#plan-benefits {
+    color: #f7f7f7;
+}
+
+#plan-price {
+    font-size: 1.4rem;
+}
+
+#plan-benefits {
+    font-size: .9rem;
+    border-top: 2px solid #ef8517;
+    padding-top: 1rem;
+}
+
+.plan-box button {
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: #ef8517;
+    transition: .2s;
+    color: #153042;
+    font-size: 1.2rem;
+    border: 3px solid #153042;
+}
+
+.plan-box button:hover {
+    color: #f7f7f7;
+    border: 3px solid #ef8517;
+    background-color: #153042;
+}

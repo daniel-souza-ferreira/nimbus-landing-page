@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "question": "Posso migrar meus dados para o Nimbus sem interrupções nos meus serviços?",
+      "answer": "Sim! Nossa plataforma oferece suporte completo para migração em tempo real, garantindo que seus serviços continuem funcionando sem interrupções."
+    },
+    {
+      "id": 2,
+      "question": "Como funciona o monitoramento em tempo real?",
+      "answer": "Com o Nimbus, você pode acompanhar o desempenho dos seus servidores e aplicações através de dashboards intuitivos, recebendo alertas em tempo real caso algo saia do esperado."
+    },
+    {
+      "id": 3,
+      "question": "Meus dados estão seguros na plataforma Nimbus?",
+      "answer": "Sim! Utilizamos criptografia avançada, autenticação de múltiplos fatores (MFA) e backups diários para garantir a segurança total dos seus dados."
+    },
+    {
+      "id": 4,
+      "question": "Existe algum custo adicional para escalar recursos?",
+      "answer": "A escalabilidade é automática e proporcional ao plano contratado. Caso precise de recursos adicionais, você será notificado antes da aplicação dos custos."
+    },
+    {
+      "id": 5,
+      "question": "Posso cancelar minha assinatura a qualquer momento?",
+      "answer": "Claro! Não existe fidelidade. Você pode cancelar ou ajustar seu plano a qualquer momento sem taxas adicionais."
+    },
+    {
+      "id": 6,
+      "question": "O Nimbus oferece suporte para integração com APIs de terceiros?",
+      "answer": "Sim, nossa infraestrutura é totalmente compatível com APIs RESTful e GraphQL, facilitando a integração com diversos serviços externos."
+    },
+    {
+      "id": 7,
+      "question": "É possível testar a plataforma antes de assinar?",
+      "answer": "Sim, oferecemos um período de teste gratuito de 14 dias para que você possa explorar todos os recursos sem compromisso."
+    },
+    {
+      "id": 8,
+      "question": "Os backups são automáticos?",
+      "answer": "Sim, nossos backups são realizados diariamente e armazenados em locais distintos para garantir máxima segurança."
+    },
+    {
+      "id": 9,
+      "question": "Quais formas de pagamento são aceitas?",
+      "answer": "Atualmente, aceitamos pagamentos via cartão de crédito, boleto bancário e transferência PIX."
+    },
+    {
+      "id": 10,
+      "question": "O que acontece se eu ultrapassar o limite do meu plano?",
+      "answer": "Caso o limite seja ultrapassado, você será notificado por e-mail e poderá optar por ajustar seu plano ou limitar os recursos temporariamente."
+    }
+  ]
+  

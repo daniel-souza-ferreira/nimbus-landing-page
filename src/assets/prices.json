@@ -1,0 +1,20 @@
+{
+    "starter": {
+        "name": "Starter",
+        "price": "R$ 29/mês",
+        "benefits": "1 Projeto, 5 GB de Armazenamento, 10 Mil Requisições/Mês, Suporte Padrão",
+        "action": "Assinar Agora"
+    },
+    "pro": {
+        "name": "Pro",
+        "price": "R$ 79/mês",
+        "benefits": "5 Projetos, 20 GB de Armazenamento, 100 Mil Requisições/Mês, Suporte Premium",
+        "action": "Assinar Agora"
+    },
+    "enterprise": {
+        "name": "Enterprise",
+        "price": "Personalizado",
+        "benefits": "Recursos ilimitados, Armazenamento sob demanda, Suporte Dedicado",
+        "action": "Fale Conosco"
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "1": {
+        "name": "Alice Souza",
+        "position": "CTO",
+        "company": "Tech Innovators",
+        "message": "A migração para o Nimbus foi a melhor decisão para nossa equipe. A escalabilidade é incrível!"
+    },
+    "2": {
+        "name": "Roberto Lima",
+        "position": "Gerente de TI",
+        "company": "Global Ventures",
+        "message": "Confiabilidade e segurança são essenciais para nós, e o Nimbus entrega exatamente isso."
+    },
+    "3": {
+        "name": "Camila Duarte",
+        "position": "Desenvolvedora Fullstack",
+        "company": "CodeFactory",
+        "message": "A interface intuitiva e o suporte 24/7 fazem toda a diferença. Recomendo!"
+    },
+    "4": {
+        "name": "Pedro Martins",
+        "position": "Diretor de Operações",
+        "company": "NetSolutions",
+        "message": "O monitoramento em tempo real salvou nossos projetos mais de uma vez."
+    },
+    "5": {
+        "name": "Lucas Almeida",
+        "position": "CEO",
+        "company": "NovaTech Solutions",
+        "message": "Com o Nimbus, conseguimos reduzir nossos custos de infraestrutura em mais de 30%. A escalabilidade é incrível!"    
+    },
+    "6": {
+        "name": "Mariana Lopes",
+        "position": "Desenvolvedora Backend",
+        "company": "Cloudify Labs",
+        "message": "O suporte 24/7 me salvou em um momento crítico de deploy. Nunca vi uma equipe tão ágil e prestativa."
+      
+    },
+    "7": {
+        "name": "Felipe Santos",
+        "position": "Arquiteto de Soluções",
+        "company": "Orion Technologies",
+        "message": "A integração com nossas APIs foi extremamente simples. Tudo fluiu perfeitamente desde o primeiro dia."
+    },
+    "8": {
+        "name": "Paula Costa",
+        "position": "Especialista em DevOps",
+        "company": "RocketCloud",
+        "message": "Automatizamos processos complexos em minutos, o que antes levava horas. Nimbus é revolucionário."
+    }
+}

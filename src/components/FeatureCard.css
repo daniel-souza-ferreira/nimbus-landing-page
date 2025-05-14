@@ -1,0 +1,34 @@
+.feature-container {
+    background-color: rgba(21, 48, 66, 1);
+    padding: .5rem;
+    border-radius: 30px;
+    width: 160px;
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: .1rem;
+    text-align: center;
+    border: 3px solid #30608d;
+    box-shadow: 10px 5px 5px 0px rgba(0,0,0,0.7);
+    transition: .2s;
+}
+
+.feature-container:hover {
+    background-color: rgba(21, 48, 66, 0.95);
+    box-shadow: 10px 5px 5px 5px rgba(0,0,0,0.7);
+}
+
+#name {
+    font-weight: bold;
+    font-size: 1rem;
+    padding-bottom: .5rem;
+    border-bottom: 2px solid #ef8517;
+    color: #ef8517;
+}
+
+#description {
+    font-size: .8rem;
+    color: #f7f7f7;
+}

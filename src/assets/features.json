@@ -1,0 +1,34 @@
+{
+    "scalability": {
+        "name": "Escalabilidade Instantânea",
+        "description": "Aumente ou reduza seus recursos com apenas um clique. A Nimbus se adapta às necessidades do seu negócio em tempo real."
+    },
+    "security": {
+        "name": "Segurança de Alto Nível",
+        "description": "Proteção avançada contra ataques cibernéticos com criptografia de ponta e monitoramento 24/7."
+    },
+    "monitoring": {
+        "name": "Monitoramento em Tempo Real",
+        "description": "Visualize o desempenho dos seus servidores em dashboards intuitivos. Antecipe problemas antes que eles afetem o seu negócio."
+    },
+    "support": {
+        "name": "Suporte 24/7",
+        "description": "Equipe especializada disponível a qualquer hora do dia para garantir que seus serviços estejam sempre operando no máximo desempenho."
+    },
+    "backup": {
+        "name": "Backup Automático",
+        "description": "Seus dados são salvos automaticamente em múltiplas regiões, garantindo segurança e disponibilidade constante."
+    },
+    "implantation": {
+        "name": "Implantação Rápida",
+        "description": "Coloque novos projetos em produção em minutos, sem complicações e com total integração aos seus sistemas atuais."
+    },
+    "apis": {
+        "name": "Integração com APIs",
+        "description": "Conecte facilmente a Nimbus aos seus aplicativos favoritos e otimize seus processos com poucos cliques."
+    },
+    "performance": {
+        "name": "Alta Performance Garantida",
+        "description": "Nossos servidores são otimizados para entregar velocidade e confiabilidade em qualquer escala."
+    }
+}

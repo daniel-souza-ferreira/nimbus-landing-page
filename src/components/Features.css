@@ -1,0 +1,23 @@
+.features-section section {
+    height: 100vh;
+    background-color: #e8f5ff;
+    border-bottom: 3px solid #30608d;
+    min-height: 50%;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.features-section h2 {
+    text-align: center;
+    padding-bottom: 2rem;
+    font-size: 2rem;
+}
+
+.features-options {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-gap: 3rem
+}
