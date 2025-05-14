@@ -12,16 +12,17 @@
     align-items: flex-start;
     justify-content: space-evenly;
     padding: .8rem;
+    margin-top: .5rem;
 }
 
 .option p {
-    padding-bottom: .5rem;
+    padding-bottom: .2rem;
     font-size: 15px;
 }
 
 .option li {
     font-size: 12px;
-    padding-top: .3rem;
+    margin-top: .3rem;
     opacity: 1;
 }
 

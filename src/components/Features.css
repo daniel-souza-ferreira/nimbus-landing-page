@@ -12,11 +12,11 @@
 
 .features-section h2 {
     text-align: center;
-    padding-bottom: 2rem;
     font-size: 2rem;
 }
 
 .features-options {
+    margin-top: 3rem;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: 3rem
