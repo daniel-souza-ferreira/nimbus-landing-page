@@ -6,7 +6,7 @@ import FeatureCard from './FeatureCard';
 
 import './Features.css';
 
-import featuresData from '../assets/features.json';
+import featuresData from '../../assets/features.json';
 
 const Features = () => {
   return (

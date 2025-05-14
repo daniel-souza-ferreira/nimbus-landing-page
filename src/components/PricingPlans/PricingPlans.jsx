@@ -6,7 +6,7 @@ import Plan from './Plan';
 
 import './PricingPlans.css';
 
-import pricesDatas from '../assets/prices.json';
+import pricesDatas from '../../assets/prices.json';
 
 const PricingPlans = () => {
   return (

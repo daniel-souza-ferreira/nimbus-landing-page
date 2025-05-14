@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { emitAlert } from '../utils/emitAlert';
+import { emitAlert } from '../../utils/emitAlert';
 
 import './Plan.css';
 

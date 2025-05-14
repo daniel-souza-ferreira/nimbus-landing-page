@@ -2,7 +2,7 @@ import React from 'react';
 
 import NavbarButton from './NavbarButton';
 
-import { emitAlert } from '../utils/emitAlert';
+import { emitAlert } from '../../utils/emitAlert';
 
 import "./Navbar.css";
 

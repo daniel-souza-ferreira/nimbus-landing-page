@@ -8,7 +8,7 @@ import './Faq.css';
 
 import questionMark from '/question-mark.png';
 
-import faqData from '../assets/faq.json';
+import faqData from '../../assets/faq.json';
 
 const Faq = () => {
   const [activeId, setActiveId] = useState(null);

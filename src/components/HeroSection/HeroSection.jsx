@@ -1,9 +1,9 @@
 import React from 'react';
 import { Element } from 'react-scroll';
 
-import NavbarButton from './NavbarButton';
+import NavbarButton from '../Navbar/NavbarButton';
 
-import { emitAlert } from '../utils/emitAlert';
+import { emitAlert } from '../../utils/emitAlert';
 
 import './HeroSection.css';
 

@@ -5,7 +5,7 @@ import CustomerTestimonial from './CustomerTestimonial';
 
 import './Testimonials.css';
 
-import testimonalsData from '../assets/testimonials.json';
+import testimonalsData from '../../assets/testimonials.json';
 
 const Testimonials = () => {
   return (

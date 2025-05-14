@@ -3,14 +3,14 @@ import { useEffect, useState } from 'react';
 import { Element } from 'react-scroll';
 import { FaAngleDoubleUp  } from "react-icons/fa";
 
-import Navbar from './components/Navbar';
-import Footer from './components/Footer';
-import HeroSection from './components/HeroSection';
-import Features from './components/Features';
-import Testimonials from './components/Testimonials';
-import PricingPlans from './components/PricingPlans';
-import Faq from './components/Faq';
-import NavbarButton from './components/NavbarButton';
+import Navbar from './components/Navbar/Navbar';
+import Footer from './components/Footer/Footer';
+import HeroSection from './components/HeroSection/HeroSection';
+import Features from './components/Features/Features';
+import Testimonials from './components/Testimonials/Testimonials';
+import PricingPlans from './components/PricingPlans/PricingPlans';
+import Faq from './components/Faq/Faq';
+import NavbarButton from './components/Navbar/NavbarButton';
 
 import { emitAlert } from './utils/emitAlert';
 
