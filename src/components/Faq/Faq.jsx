@@ -43,7 +43,6 @@ const Faq = () => {
               <div className="answer">
                 <AnimatePresence mode="wait">
                   <motion.div 
-                    className="answer"
                     key={activeId}
                     initial="initial"
                     animate="animate"
