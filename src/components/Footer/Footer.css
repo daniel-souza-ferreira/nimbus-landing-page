@@ -30,3 +30,8 @@
     opacity: .7;
     cursor: pointer;
 }
+
+.alert-text {
+    text-align: center;
+    font-size: .7rem;
+}

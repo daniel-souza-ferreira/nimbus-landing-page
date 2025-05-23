@@ -2,6 +2,7 @@
 import { useEffect, useState } from 'react';
 import { Element } from 'react-scroll';
 import { FaAngleDoubleUp  } from "react-icons/fa";
+import { ToastContainer } from 'react-toastify';
 
 import Navbar from './components/Navbar/Navbar';
 import Footer from './components/Footer/Footer';
@@ -24,7 +25,7 @@ function App() {
   }
 
   useEffect(() => {
-    emitAlert();
+    emitAlert(true);
 
     window.addEventListener("scroll", toogleInitialButtonVisibility)
 
@@ -35,6 +36,7 @@ function App() {
   
   return (
     <div className="app-container">
+      <ToastContainer />
       <Element name="initial-page">
         <Navbar />
         <HeroSection />

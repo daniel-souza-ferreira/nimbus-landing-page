@@ -37,6 +37,9 @@ const Footer = () => {
           </ul>
         </div>
       </div>
+      <div className="alert-text">
+        <p>Esta página foi desenvolvida exclusivamente para fins de estudo e demonstração de portfólio. As informações aqui apresentadas são fictícias e não representam uma oferta real de serviços ou produtos.</p>
+      </div>
     </div>
   )
 }

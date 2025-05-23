@@ -13,3 +13,16 @@
     border-radius: 50%;
     box-shadow: none;
 }
+
+.alert-message {
+    color: #ef8517;
+    background-color:#153042FF;
+    border: 2px solid #ef8517;
+    font-weight: bold;
+    padding: 1.5rem;
+    width: 60%;
+    text-align: justify;
+    font-size: 15px;
+    display: flex;
+    gap: 1rem;
+}
