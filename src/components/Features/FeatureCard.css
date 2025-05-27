@@ -13,6 +13,7 @@
     border: 3px solid #30608d;
     box-shadow: 10px 5px 5px 0px rgba(0,0,0,0.7);
     transition: .2s;
+    flex: 0 0 auto;
 }
 
 .feature-container:hover {
@@ -20,7 +21,7 @@
     box-shadow: 10px 5px 5px 5px rgba(0,0,0,0.7);
 }
 
-#name {
+.name {
     font-weight: bold;
     font-size: 1rem;
     padding-bottom: .5rem;
@@ -28,7 +29,24 @@
     color: #ef8517;
 }
 
-#description {
+.description {
     font-size: .8rem;
     color: #f7f7f7;
+}
+
+@media (max-width: 480px) {
+    .feature-container {
+        width: 250px;
+        height: 500px;
+        padding: 1rem;
+        box-shadow: none;
+    }
+
+    .name {
+        font-size: 1.4rem;
+    }
+
+    .description {
+        font-size: 1rem;
+    }
 }

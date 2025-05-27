@@ -1,5 +1,6 @@
 .app-container {
     margin: 0 auto;
+    overflow: hidden;
 }
 
 .initial-button {
@@ -25,4 +26,21 @@
     font-size: 15px;
     display: flex;
     gap: 1rem;
+}
+
+@media (max-width: 480px) {
+    .initial-button {
+        right: .4rem;
+    }
+
+    .initial-button > .nav-button {
+        padding: 1rem;
+        font-size: 1rem;
+    }
+
+    .alert-message {
+        width: 100%;
+        padding: 1rem;
+        font-size: 11px;
+    }
 }

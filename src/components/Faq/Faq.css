@@ -85,3 +85,46 @@
     overflow-y: auto;
     box-sizing: border-box;
 }
+
+@media (max-width: 480px) {
+    .faq-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+
+    .question-container {
+        flex-direction: column;
+        width: 40%;
+    }
+
+    .faq-question {
+        padding: .8rem;
+        border-top: 1px solid #153042;
+        border-bottom: 1px solid #153042;
+        transition: .2s;
+        font-size: .6rem;
+    }
+
+    .answer {
+        flex: 1;
+        display: flex;
+        font-size: 12px;
+        padding: 1rem;
+        background-color: #327aaf;
+        border-radius: 10px;
+        min-width: 325px;
+        text-align: center;
+        overflow: auto;
+        position: relative;
+    }
+
+    .answer > div {
+        width: 800px;
+    }
+
+    .answer img {
+        height: 80px;
+        width: 80px;
+    }
+}

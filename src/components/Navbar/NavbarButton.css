@@ -13,3 +13,10 @@
 .nav-button:hover {
     background-color: #153042;
 }
+
+@media (max-width: 480px) {
+    .nav-button {
+        padding: .7rem;
+        font-size: .7rem;
+    }
+}

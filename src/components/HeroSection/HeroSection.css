@@ -37,3 +37,13 @@ img {
     width: auto;
     max-height: 50%;
 }
+
+@media (max-width: 480px) {
+    .hero-section section {
+        height: 80vh;
+    }
+
+    .descriptions h1 {
+        font-size: 2rem;
+    }
+}

@@ -30,7 +30,23 @@
     padding-left: .2rem;
 }
 
-#author-name {
+.author-name {
     padding-bottom: .3rem;
     font-size: .8rem;
+}
+
+@media (max-width: 480px) {
+    .customer-testimonial {
+        width: 300px;
+        height: 300px;
+        flex: 0 0 auto;
+    }
+
+    .customer-testimonial:hover {
+        box-shadow: none;
+    }
+
+    .testimonial-content {
+        font-size: 1.3rem;
+    }
 }

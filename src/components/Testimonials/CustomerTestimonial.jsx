@@ -9,7 +9,7 @@ const CustomerTestimonial = ({ name, position, company, message }) => {
             <p>{message}</p>
         </div>
         <div className="testimonial-author">
-            <p id="author-name">{name}</p>
+            <p className="author-name">{name}</p>
             <p>{position}</p>
             <p>{company}</p>
         </div>

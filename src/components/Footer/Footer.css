@@ -35,3 +35,36 @@
     text-align: center;
     font-size: .7rem;
 }
+
+@media (max-width: 480px) {
+    #footer {
+        height: auto;
+        padding: .5rem;
+    }
+
+    .footer-options {
+        flex-direction: column;
+        align-items: center;
+        gap: 1.2rem;
+    }
+
+    .option p {
+        font-size: 11px;
+        text-align: center;
+    }
+
+    .option ul {
+        display: flex;
+        gap: 1.3rem;
+        list-style: none;
+    }
+
+    .option li {
+        font-size: 8px;
+    }
+
+    .alert-text {
+        margin-top: .5rem;
+        font-size: .4rem;
+    }
+}

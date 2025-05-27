@@ -5,8 +5,8 @@ import './FeatureCard.css';
 const FeaturesCard = ({ name, description }) => {
   return (
     <div className='feature-container'>
-      <p id="name">{name}</p>
-      <p id="description">{description}</p>
+      <p className="name">{name}</p>
+      <p className="description">{description}</p>
     </div>
   )
 }

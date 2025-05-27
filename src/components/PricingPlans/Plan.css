@@ -57,3 +57,10 @@ button {
     border: 3px solid #ef8517;
     background-color: #153042;
 }
+
+@media (max-width: 480px) {
+    .plan-box {
+        height: 40vh;
+        width: 30vh;
+    }
+}
