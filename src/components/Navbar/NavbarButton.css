@@ -8,6 +8,7 @@
     transition: .5s;
     cursor: pointer;
     box-shadow: 10px 5px 5px black;
+    font-size: .8rem;
 }
 
 .nav-button:hover {

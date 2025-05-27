@@ -17,11 +17,11 @@
 
 .option p {
     padding-bottom: .2rem;
-    font-size: 15px;
+    font-size: 1rem;
 }
 
 .option li {
-    font-size: 12px;
+    font-size: .6rem;
     margin-top: .3rem;
     opacity: 1;
 }
