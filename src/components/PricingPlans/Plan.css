@@ -63,4 +63,17 @@ button {
         height: 40vh;
         width: 30vh;
     }
+
+    #plan-name {
+        color: #ef8517;
+        font-size: 1.8rem;
+    }
+
+    #plan-price {
+        font-size: 1rem;
+    }
+
+    #plan-benefits {
+        font-size: .7rem;
+    }
 }
